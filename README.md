@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blagovest Chorev
+- 👋 Hi, I’m Blagovest Chorev
 - 👀 I’m interested in Formiula 1, Fitness & Football. 
 - 🌱 I’m currently learning JavaScript fundamental in SoftUni
 - 💞️ I’m looking to collaborate on ...
